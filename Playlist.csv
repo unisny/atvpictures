@@ -1,7 +1,7 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,//https://github.com/unisny/atvpictures/blob/main/pexels-1.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit02,//https://github.com/unisny/atvpictures/blob/main/pexels-2.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit03,//https://github.com/unisny/atvpictures/blob/main/pexels-3.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit04,//https://github.com/unisny/atvpictures/blob/main/pexels-4.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit05,//https://github.com/unisny/atvpictures/blob/main/pexels-5.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit06,//https://github.com/unisny/atvpictures/blob/main/pexels-6.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://github.com/unisny/atvpictures/blob/main/pexels-1.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit02,https://github.com/unisny/atvpictures/blob/main/pexels-2.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit03,https://github.com/unisny/atvpictures/blob/main/pexels-3.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit04,https://github.com/unisny/atvpictures/blob/main/pexels-4.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit05,https://github.com/unisny/atvpictures/blob/main/pexels-5.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit06,https://github.com/unisny/atvpictures/blob/main/pexels-6.jpg,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
