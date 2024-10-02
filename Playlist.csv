@@ -1,3 +1,3 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit01,https://github.com/unisny/atvpictures/blob/main/pexels-1.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
-Exhibit02,https://github.com/unisny/atvpictures/blob/main/pexels-2.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit01,https://raw.githubusercontent.com/unisny/atvpictures/main/pexels-1.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
+Exhibit02,https://raw.githubusercontent.com/unisny/atvpictures/main/pexels-2.png,0:00:10,1:00:00,1/1/18 0:00,12/31/30 23:59,yes
